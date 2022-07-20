@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1658308887655" clover="3.2.0">
-  <project timestamp="1658308887655" name="All files">
-    <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="11" coveredelements="11" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+<coverage generated="1658312139846" clover="3.2.0">
+  <project timestamp="1658312139846" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="14" coveredelements="14" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
+    <file name="reverseString.js" path="C:\Users\beach boy\Desktop\WCKD\TESTING-PRACTICE\reverseString.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+    </file>
     <file name="stringLength.js" path="C:\Users\beach boy\Desktop\WCKD\TESTING-PRACTICE\stringLength.js">
       <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
