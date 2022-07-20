@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1658308887655" clover="3.2.0">
+  <project timestamp="1658308887655" name="All files">
+    <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="11" coveredelements="11" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
+    <file name="stringLength.js" path="C:\Users\beach boy\Desktop\WCKD\TESTING-PRACTICE\stringLength.js">
+      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
