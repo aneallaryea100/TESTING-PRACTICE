@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1658312139846" clover="3.2.0">
-  <project timestamp="1658312139846" name="All files">
-    <metrics statements="8" coveredstatements="8" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2" elements="14" coveredelements="14" complexity="0" loc="8" ncloc="8" packages="1" files="2" classes="2"/>
+<coverage generated="1658314961712" clover="3.2.0">
+  <project timestamp="1658314961712" name="All files">
+    <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6" elements="23" coveredelements="23" complexity="0" loc="13" ncloc="13" packages="1" files="3" classes="3"/>
+    <file name="calculator.js" path="C:\Users\beach boy\Desktop\WCKD\TESTING-PRACTICE\calculator.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
     <file name="reverseString.js" path="C:\Users\beach boy\Desktop\WCKD\TESTING-PRACTICE\reverseString.js">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="2" count="1" type="stmt"/>
-      <line num="6" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
     </file>
     <file name="stringLength.js" path="C:\Users\beach boy\Desktop\WCKD\TESTING-PRACTICE\stringLength.js">
       <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
